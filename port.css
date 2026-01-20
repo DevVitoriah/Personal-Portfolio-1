@@ -20,7 +20,7 @@ body {
   body::before {
     content: "";
     position: fixed;
-    background: #020202 url("assets/img/WhatsApp\ Image\ 2026-01-20\ at\ 19.00.41.jpeg") top right no-repeat;
+    background: #000000 url("assets/img/WhatsApp\ Image\ 2026-01-20\ at\ 19.00.41.jpeg") top right no-repeat;
     background-size: cover;
     left: 0;
     right: 0;
